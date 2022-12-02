@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/side-effects-reducers-context-api/static/css/main.09fa8997.css",
+    "main.js": "/side-effects-reducers-context-api/static/js/main.73560334.js",
+    "index.html": "/side-effects-reducers-context-api/index.html",
+    "main.09fa8997.css.map": "/side-effects-reducers-context-api/static/css/main.09fa8997.css.map",
+    "main.73560334.js.map": "/side-effects-reducers-context-api/static/js/main.73560334.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09fa8997.css",
+    "static/js/main.73560334.js"
+  ]
+}
